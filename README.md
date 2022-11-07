@@ -1,5 +1,5 @@
-# Personal Portfolio
-*An implementation of Personal-Portfolio page clone with html and css*
+# Product-Landing page
+*An implementation of Product-Landing page clone with html and css*
 ## Prequisite
 - Your browser version should be up to date for better experience
 ## Getting Started
@@ -14,7 +14,7 @@ Clone or download this repository and run with a local server of open `index.htm
 - Html
 - Css
 ## Preview here
-[Demo](https://rawcdn.githack.com/Intelligence247/Portfolio/1656087ba9767e1322eff6ada612eac3f7efacf9/index.html)
+<!-- [Demo](https://rawcdn.githack.com/Intelligence247/Portfolio/1656087ba9767e1322eff6ada612eac3f7efacf9/index.html) -->
 ![screenshot](/media/sketch.png)
 ![screenshot](/media/sketch1.png)
 ![screenshot](/media/sketch2.png)
