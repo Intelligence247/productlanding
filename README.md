@@ -14,7 +14,7 @@ Clone or download this repository and run with a local server of open `index.htm
 - Html
 - Css
 ## Preview here
-<!-- [Demo](https://rawcdn.githack.com/Intelligence247/Portfolio/1656087ba9767e1322eff6ada612eac3f7efacf9/index.html) -->
+[Demo](https://rawcdn.githack.com/Intelligence247/productlanding/a240e0d66e8cd07fa878a924738cf7f12381eed0/index.html)
 ![screenshot](/media/sketch.png)
 ![screenshot](/media/sketch1.png)
 ![screenshot](/media/sketch2.png)
